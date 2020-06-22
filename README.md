@@ -1,12 +1,13 @@
- optimal-viewpoint
-Geometric Optimal Viewpoint estimation on Kwanjeong dataset with PyTorch.
+#Geometric Optimal Viewpoint Estimation on Kwanjeong dataset.
 
 ## Install
-* Install [PyTorch](http://pytorch.org/)
 * Clone repository
   ```
   git clone https://github.com/bareblackfoot/GeoOVE.git
   ```
+
+## Download Kwanjeong dataset
+* Email me to get the dataset
 
 ## Results
 
