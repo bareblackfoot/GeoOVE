@@ -1,4 +1,4 @@
-# Geometric Optimal Viewpoint Estimation on Kwanjeong dataset.
+# Geometric Optimal Viewpoint Estimation
 
 ## Install
 * Clone repository
